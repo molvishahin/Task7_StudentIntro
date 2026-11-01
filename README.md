@@ -1,1 +1,1 @@
-# Task7_StudentIntro
+# Task7_StudentIntroGitHub Collaboration Practice Project
