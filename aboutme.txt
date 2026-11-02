@@ -1,0 +1,4 @@
+Student Introduction
+I am a BCA Semester III student. 
+I am learning Git and GitHub.
+My goal is to improve my programming skills.
